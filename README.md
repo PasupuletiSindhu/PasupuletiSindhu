@@ -37,20 +37,11 @@ Coursework: Machine Learning, Deep Learning, NLP, Data Science, Computer Vision
 
 ## Skills
 
+### Artificial Intelligence & Machine Learning
+
 <p>
   <kbd>Python</kbd>
   <kbd>R</kbd>
-  <kbd>SQL (MySQL, PostgreSQL)</kbd>
-  <kbd>Java</kbd>
-  <kbd>C</kbd>
-  <kbd>Power BI</kbd>
-  <kbd>Tableau</kbd>
-  <kbd>Looker</kbd>
-  <kbd>Excel (PivotTables, Power Query)</kbd>
-  <kbd>DAX</kbd>
-  <kbd>Power Query (M)</kbd>
-  <kbd>Seaborn</kbd>
-  <kbd>Matplotlib</kbd>
   <kbd>Scikit-learn</kbd>
   <kbd>TensorFlow</kbd>
   <kbd>PyTorch</kbd>
@@ -61,6 +52,31 @@ Coursework: Machine Learning, Deep Learning, NLP, Data Science, Computer Vision
   <kbd>Generative AI</kbd>
   <kbd>RAG Pipelines</kbd>
   <kbd>MLOps</kbd>
+  <kbd>Feature Engineering</kbd>
+  <kbd>Churn Modeling</kbd>
+  <kbd>Forecasting</kbd>
+  <kbd>Predictive Modeling</kbd>
+  <kbd>Segmentation</kbd>
+  <kbd>Statistics</kbd>
+  <kbd>Hypothesis Testing</kbd>
+  <kbd>A/B Testing</kbd>
+  <kbd>SQL (MySQL, PostgreSQL)</kbd>
+  <kbd>Exploratory Data Analysis (EDA)</kbd>
+</p>
+
+---
+
+### Business Intelligence & Data Engineering
+
+<p>
+  <kbd>Power BI</kbd>
+  <kbd>Tableau</kbd>
+  <kbd>Looker</kbd>
+  <kbd>Excel (PivotTables, Power Query)</kbd>
+  <kbd>DAX</kbd>
+  <kbd>Power Query (M)</kbd>
+  <kbd>Seaborn</kbd>
+  <kbd>Matplotlib</kbd>
   <kbd>ETL</kbd>
   <kbd>BigQuery</kbd>
   <kbd>Snowflake</kbd>
@@ -68,17 +84,12 @@ Coursework: Machine Learning, Deep Learning, NLP, Data Science, Computer Vision
   <kbd>AWS</kbd>
   <kbd>Azure</kbd>
   <kbd>Git</kbd>
-  <kbd>Statistics</kbd>
-  <kbd>Hypothesis Testing</kbd>
-  <kbd>A/B Testing</kbd>
-  <kbd>Predictive Modeling</kbd>
-  <kbd>Forecasting</kbd>
-  <kbd>Churn Modeling</kbd>
-  <kbd>Feature Engineering</kbd>
-  <kbd>Exploratory Data Analysis (EDA)</kbd>
-  <kbd>Segmentation</kbd>
   <kbd>Data Pipelines</kbd>
   <kbd>Dimensional Modeling</kbd>
+  <kbd>SQL Tuning</kbd>
+  <kbd>Data Warehousing</kbd>
+  <kbd>Data Cleaning</kbd>
+  <kbd>Version Control</kbd>
 </p>
 
 ---
