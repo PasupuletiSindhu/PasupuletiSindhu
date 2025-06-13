@@ -1,145 +1,145 @@
-<h1 align="center">👋 Hi, I'm Sindhu Pasupuleti</h1>
+<h1 align="center">Sindhu Pasupuleti</h1>
 <p align="center">
-🎓 MS in AI @ RIT | 💼 Machine Learning & Analytics Intern | 🤖 GenAI & BI Enthusiast  
+MS in Artificial Intelligence @ RIT | Business Intelligence + Generative AI | Machine Learning & Data Science Enthusiast
 </p>
 
 <p align="center">
-  <a href="mailto:sp7289@rit.edu"><img src="https://img.shields.io/badge/Email-sp7289@rit.edu-blue?style=flat-square&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/sindhu-pasupuleti/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://github.com/PasupuletiSindhu"><img src="https://img.shields.io/github/followers/PasupuletiSindhu?label=GitHub&style=social"></a>
-  <a href="https://public.tableau.com/app/profile/sindhu.pasupuleti"><img src="https://img.shields.io/badge/Tableau-Dashboards-orange?style=flat-square&logo=tableau"></a>
+  <a href="mailto:sp7289@rit.edu"><strong>Email</strong></a> •
+  <a href="https://www.linkedin.com/in/sindhu-pasupuleti/"><strong>LinkedIn</strong></a> •
+  <a href="https://github.com/PasupuletiSindhu"><strong>GitHub</strong></a> •
+  <a href="https://public.tableau.com/app/profile/sindhu.pasupuleti"><strong>Tableau</strong></a>
 </p>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I’m an AI and Data Science enthusiast who loves turning complex data into insights, visual stories, and intelligent systems. Whether it's building interactive BI dashboards or stress-testing AI models with generative attacks, I love connecting dots between business value and technical depth.
+I am passionate about leveraging the full spectrum of Business Intelligence (BI) and Artificial Intelligence (AI) to solve real-world problems through data-driven decisions and intelligent automation. My experience spans advanced analytics, visualization, machine learning, and generative AI research.
 
 ---
 
-## 🎓 Education Journey
+## Education
 
 <details>
-<summary><strong>🔍 Tap to explore my academic foundation</strong></summary>
+<summary><strong>Explore my academic background</strong></summary>
 
-### 📘 Rochester Institute of Technology (2024–2026)
-**MS in Artificial Intelligence** — GPA: 3.83/4.0  
-_Key Areas_: Visual Analytics, Ethics of AI, Mathematical Methods, LLMs & GenAI
+**Rochester Institute of Technology** (2024–2026)  
+MS in Artificial Intelligence — GPA: 3.83/4.0  
+Coursework: Visual Analytics, Ethics of AI, Mathematical Methods, Generative AI
 
-### 📗 SR Gudlavalleru Engineering College (2020–2024)
-**BTech in AI & Data Science** — GPA: 3.65/4.0  
-_Key Areas_: Machine Learning, Deep Learning, NLP, Data Science, Computer Vision
+**SR Gudlavalleru Engineering College** (2020–2024)  
+BTech in AI and Data Science — GPA: 3.65/4.0  
+Coursework: Machine Learning, Deep Learning, NLP, Data Science, Computer Vision
 
 </details>
 
 ---
 
-## 🧠 Skills
+## Skills
 
 <p>
   <kbd>Python</kbd>
   <kbd>R</kbd>
-  <kbd>SQL</kbd>
+  <kbd>SQL (MySQL, PostgreSQL)</kbd>
+  <kbd>Java</kbd>
+  <kbd>C</kbd>
   <kbd>Power BI</kbd>
   <kbd>Tableau</kbd>
+  <kbd>Looker</kbd>
+  <kbd>Excel (PivotTables, Power Query)</kbd>
   <kbd>DAX</kbd>
-  <kbd>ETL</kbd>
-  <kbd>Feature Engineering</kbd>
-  <kbd>Transformers</kbd>
-  <kbd>LLMs</kbd>
-  <kbd>HuggingFace</kbd>
-  <kbd>Time Series</kbd>
-  <kbd>Cloud (Azure, AWS)</kbd>
-  <kbd>MySQL</kbd>
-  <kbd>Snowflake</kbd>
-  <kbd>Pandas</kbd>
+  <kbd>Power Query (M)</kbd>
   <kbd>Seaborn</kbd>
   <kbd>Matplotlib</kbd>
-  <kbd>PyTorch</kbd>
+  <kbd>Scikit-learn</kbd>
   <kbd>TensorFlow</kbd>
+  <kbd>PyTorch</kbd>
+  <kbd>Transformers</kbd>
+  <kbd>LLMs</kbd>
+  <kbd>VLMs</kbd>
+  <kbd>HuggingFace</kbd>
+  <kbd>Generative AI</kbd>
+  <kbd>RAG Pipelines</kbd>
+  <kbd>MLOps</kbd>
+  <kbd>ETL</kbd>
+  <kbd>BigQuery</kbd>
+  <kbd>Snowflake</kbd>
+  <kbd>MongoDB</kbd>
+  <kbd>AWS</kbd>
+  <kbd>Azure</kbd>
+  <kbd>Git</kbd>
+  <kbd>Statistics</kbd>
+  <kbd>Hypothesis Testing</kbd>
+  <kbd>A/B Testing</kbd>
+  <kbd>Predictive Modeling</kbd>
+  <kbd>Forecasting</kbd>
+  <kbd>Churn Modeling</kbd>
+  <kbd>Feature Engineering</kbd>
+  <kbd>Exploratory Data Analysis (EDA)</kbd>
+  <kbd>Segmentation</kbd>
+  <kbd>Data Pipelines</kbd>
+  <kbd>Dimensional Modeling</kbd>
 </p>
 
 ---
 
-<details>
-<summary>📊 <strong>Analytics Projects</strong> (Click to expand)</summary>
+## BI & Analytics Projects
 
-### 📌 Retail Sales Performance Dashboard
-- Built a Power BI dashboard simulating live sales KPIs across regions and categories.
-- Identified 15% margin drop in Central region; DAX-driven analytics revealed 12% gain potential via optimized discounting.
+**Retail Sales Performance Dashboard** — Power BI, SQL, DAX  
+Simulated real-time sales tracking across product categories, regions, and customers. Analysis uncovered a 15% margin loss in the Central region and potential recovery through pricing strategy.
 
-### 📌 Customer Churn Prediction
-- Python + SQL + Tableau pipeline to predict churn with 82% accuracy using XGBoost and engineered tenure, contract features.
-- Simulated retention strategies in Tableau—$125K savings from targeting high-risk segments.
+**Customer Churn Prediction & Retention Analysis** — Python, SQL, Tableau  
+Logistic Regression and XGBoost model with 82% accuracy. Visual dashboards simulated retention strategies that helped reduce projected losses by $125K.
 
-### 📌 HR Attrition Insights
-- Built Power BI dashboard with attrition rate, tenure, satisfaction, and promotion KPIs.
-- Detected 32% higher attrition in Sales/R&D due to delayed promotions.
+**HR Analytics Dashboard** — Power BI  
+Interactive dashboard visualizing attrition trends, satisfaction index, and tenure analysis. Identified 32% higher attrition in R&D and Sales linked to promotion cycles.
 
-### 📌 E-Commerce Campaign ROI Tracker
-- Unified marketing and transactional data with SQL; DAX-driven KPIs (ROAS, CAC, LTV).
-- Shift from Paid Ads to Social yielded 22% ROI boost.
-
-</details>
+**E-Commerce ROI Tracker** — Power BI, SQL  
+Unified marketing channel analysis using CAC, LTV, ROAS. Dashboard insights led to budget reallocation, projecting a 22% ROI increase.
 
 ---
 
-<details>
-<summary>🤖 <strong>AI & GenAI Research Projects</strong> (Click to expand)</summary>
+## AI & Research Projects
 
-### 🧪 Robustness Testing with Adversarial and OOD Attacks
-- Generated weird prompts via BART + OOD images using Stable Diffusion.
-- Measured model stability via Entropy (↑42%), Cosine Similarity (↑31%), PCS Index (0.35).
+**Stress Testing Vision-Language Models with OOD Attacks** — BART, Stable Diffusion, CLIP  
+Developed an adversarial pipeline using text prompts and diffusion-generated images. Evaluated models using Perceptual Concept Shift and cosine distances.
 
-### 🚘 Neuro-Symbolic VQA for Self-Driving
-- Combined YOLOv8, Monodepth2, EfficientNet-B0 with GNNs and Answer Set Programming.
-- Enabled symbolic reasoning for real-time scene understanding.
+**Neuro-Symbolic VQA for Autonomous Driving** — YOLOv8, Monodepth2, GNNs  
+Hybrid VQA architecture integrating perception and symbolic reasoning to answer visual driving queries in real-time.
 
-### 🧠 Bias Detection in LLMs with GANs
-- Built GAN framework to reveal race/gender/age bias in BERT using adversarial sampling.
-- Reduced bias propagation by 32%, improved fairness metrics by 21%.
+**Bias Detection in BERT using GANs**  
+GAN-based adversarial sampling revealed hidden biases across race/gender/age. Fairness improved by 21% with reduced bias propagation.
 
-### 🔎 Search Desk – Unified Search Engine
-- Built document search pipeline using TF-IDF + OCR + cosine similarity.
-- Boosted retrieval accuracy by 25%, slashed latency by 40%.
+**Search Desk Engine** — OCR, TF-IDF, Cosine Similarity  
+Search engine combining structured and unstructured data from multiple file types. Achieved 40% latency reduction and 25% improvement in accuracy.
 
-### ⛽ Personalized Fuel Assistance System
-- ANN-based recommender using usage logs, GPS, and seasonal trends.
-- Reduced inefficiency by 25%, applied PCA & outlier filtering for 40% training speedup.
-
-</details>
+**Fuel Recommendation System** — ANN, PCA  
+Developed a neural recommender optimizing fuel efficiency based on usage history and geographic patterns.
 
 ---
 
-## 📜 Publications
+## Publications
 
-- *Bias Detection in Pre-Trained LMs using GANs*  
-- *Scientific Hypothesis Generation using Deep Learning*  
-- *AI-Powered Legal Chatbot for Case Summarization*  
-- *Efficient Search Engine for Structured & Unstructured Data*  
-- *Voice-Controlled Obstacle Avoiding Robot using AI*  
-- *Fuel Assistance Recommender using ANN*
-
----
-
-## 🏅 Certifications
-
-- ✅ AI For Everyone – Coursera  
-- ✅ Microsoft Certified: Azure Fundamentals  
-- ✅ PCAP – Programming Essentials in Python  
-- ✅ Wipro TalentNext – Java Full Stack
+- Bias Detection in Language Models using GANs  
+- Scientific Hypothesis Generation via Deep Learning  
+- AI Legal Assistant Chatbot for Case Summarization  
+- Search Engine Optimization for Hybrid Data Sources  
+- Voice-Controlled Autonomous Navigation Robot  
+- Personalized Fuel Recommender via Neural Networks
 
 ---
 
-## 💬 Let's Connect and Build Something Amazing
+## Certifications
 
-> I believe in the power of **collaboration**, **experimentation**, and building things that matter.  
-Whether it's a next-gen dashboard, a GenAI prototype, or a product idea—I'm always open to explore.
-
-📬 [Drop me a line](mailto:sp7289@rit.edu) or reach out on [LinkedIn](https://www.linkedin.com/in/sindhu-pasupuleti/)—  
-Let's connect, collaborate, and **build something great together**!
+- AI For Everyone – Coursera  
+- Microsoft Certified: Azure Fundamentals  
+- PCAP – Programming Essentials in Python  
+- Wipro TalentNext – Java Full Stack
 
 ---
 
-⭐ _Thanks for visiting! Explore my pinned projects below._
+## Let's Connect
+
+I’m always looking for exciting challenges, research collaborations, and real-world applications of AI and BI. Whether it's deploying dashboards or designing foundation model stress tests, I enjoy building impactful solutions.
+
+Feel free to connect on [LinkedIn](https://www.linkedin.com/in/sindhu-pasupuleti/) or email me at <sp7289@rit.edu> — let’s collaborate and build something great.
