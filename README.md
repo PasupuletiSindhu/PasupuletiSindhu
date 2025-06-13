@@ -83,38 +83,91 @@ Coursework: Machine Learning, Deep Learning, NLP, Data Science, Computer Vision
 
 ---
 
-## BI & Analytics Projects
+## Explore My Projects
 
-**Retail Sales Performance Dashboard** — Power BI, SQL, DAX  
-Simulated real-time sales tracking across product categories, regions, and customers. Analysis uncovered a 15% margin loss in the Central region and potential recovery through pricing strategy.
-
-**Customer Churn Prediction & Retention Analysis** — Python, SQL, Tableau  
-Logistic Regression and XGBoost model with 82% accuracy. Visual dashboards simulated retention strategies that helped reduce projected losses by $125K.
-
-**HR Analytics Dashboard** — Power BI  
-Interactive dashboard visualizing attrition trends, satisfaction index, and tenure analysis. Identified 32% higher attrition in R&D and Sales linked to promotion cycles.
-
-**E-Commerce ROI Tracker** — Power BI, SQL  
-Unified marketing channel analysis using CAC, LTV, ROAS. Dashboard insights led to budget reallocation, projecting a 22% ROI increase.
+Welcome to a curated portfolio of high-impact work across **Business Intelligence (BI)** and **Artificial Intelligence (AI)**. Each project blends technical depth with real-world applicability, showcasing solutions for forecasting, modeling, optimization, and interpretability. Click through the sections to dive deeper.
 
 ---
 
-## AI & Research Projects
+<details>
+<summary><strong>Business Intelligence & Analytics Projects</strong></summary>
 
-**Stress Testing Vision-Language Models with OOD Attacks** — BART, Stable Diffusion, CLIP  
-Developed an adversarial pipeline using text prompts and diffusion-generated images. Evaluated models using Perceptual Concept Shift and cosine distances.
+### Retail Sales Performance Dashboard  
+**Tools:** Power BI, SQL, DAX  
+- Built a dynamic sales tracking dashboard across products, regions, and customer segments  
+- Uncovered a 15% margin loss in the Central region due to discount patterns  
+- Suggested strategic pricing changes for a projected 12% margin recovery  
 
-**Neuro-Symbolic VQA for Autonomous Driving** — YOLOv8, Monodepth2, GNNs  
-Hybrid VQA architecture integrating perception and symbolic reasoning to answer visual driving queries in real-time.
+---
 
-**Bias Detection in BERT using GANs**  
-GAN-based adversarial sampling revealed hidden biases across race/gender/age. Fairness improved by 21% with reduced bias propagation.
+### Customer Churn Prediction & Retention Strategy  
+**Tools:** Python, SQL, Tableau  
+- Developed a churn model using Logistic Regression and XGBoost with 82% accuracy  
+- Built an executive Tableau dashboard to visualize churn risk and retention strategies  
+- Reduced projected losses by $125K quarterly through targeted interventions  
 
-**Search Desk Engine** — OCR, TF-IDF, Cosine Similarity  
-Search engine combining structured and unstructured data from multiple file types. Achieved 40% latency reduction and 25% improvement in accuracy.
+---
 
-**Fuel Recommendation System** — ANN, PCA  
-Developed a neural recommender optimizing fuel efficiency based on usage history and geographic patterns.
+### HR Attrition Dashboard  
+**Tools:** Power BI, Excel, Python  
+- Visualized attrition trends, satisfaction metrics, and tenure analytics  
+- Identified a 32% higher attrition rate in R&D and Sales roles  
+- Enabled HR teams to diagnose key drivers of turnover  
+
+---
+
+### E-Commerce Campaign ROI Tracker  
+**Tools:** Power BI, SQL  
+- Analyzed marketing channels with metrics like CAC, ROAS, LTV  
+- Revealed Social Media had 1.4x higher ROAS than Paid Ads  
+- Recommended budget reallocation with a projected 22% ROI uplift  
+
+</details>
+
+---
+
+<details>
+<summary><strong>AI & Research Projects</strong></summary>
+
+### Stress Testing Vision-Language Models  
+**Tools:** BART, Stable Diffusion, CLIP, BLIP  
+- Generated Out-of-Distribution images from semantically odd prompts  
+- Measured model robustness using entropy, cosine distance, and PCS  
+- Evaluated ResNet18 and EfficientNet-B0 under adversarial inputs  
+
+---
+
+### Neuro-Symbolic VQA for Autonomous Driving  
+**Tools:** YOLOv8, Monodepth2, EfficientNet-B0, GNNs, ASP  
+- Built a VQA pipeline that merges visual grounding and symbolic reasoning  
+- Enabled real-time object detection, depth perception, and question answering  
+- Combined neural and logic-based modules for accurate scene understanding  
+
+---
+
+### Bias Detection in BERT using GANs  
+**Tools:** GANs, BERT, Fairness Metrics  
+- Used adversarial sampling to expose hidden biases (race, gender, age)  
+- Improved fairness by 21% and reduced bias propagation by 32%  
+- Evaluated fairness with Disparate Impact and TPR Parity metrics  
+
+---
+
+### Search Desk: Unified Document Retrieval Engine  
+**Tools:** TF-IDF, OCR, Cosine Similarity, Naïve Bayes  
+- Integrated structured/unstructured search across DOCX, PDF, JPG, PNG, and more  
+- Engineered full pipeline: parsing, indexing, querying  
+- Reduced search latency by 40%, improved accuracy by 25%  
+
+---
+
+### Personalized Fuel Recommendation System  
+**Tools:** ANN, PCA, Feature Engineering  
+- Modeled fuel consumption patterns using historical + geospatial data  
+- Increased accuracy by 30% and improved efficiency through targeted suggestions  
+- Applied dimensionality reduction to accelerate training by 40%  
+
+</details>
 
 ---
 
