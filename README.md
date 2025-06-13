@@ -14,34 +14,51 @@
 
 ## 🚀 About Me
 
-I’m a data and AI enthusiast passionate about combining **business intelligence** with **machine learning and generative AI** to solve complex, real-world problems. My work bridges analytical dashboards and explainable AI research—from **Power BI visual storytelling** to **robustness evaluation for vision-language models**.
+I’m an AI and Data Science enthusiast who loves turning complex data into insights, visual stories, and intelligent systems. Whether it's building interactive BI dashboards or stress-testing AI models with generative attacks, I love connecting dots between business value and technical depth.
 
 ---
 
-## 📚 Education
+## 🎓 Education Journey
 
-```yaml
-🎓 Rochester Institute of Technology (2024–2026)
-   MS in Artificial Intelligence | GPA: 3.83/4.0
-   • Visual Analytics, Mathematical Methods for AI, Ethics of AI
+<details>
+<summary><strong>🔍 Tap to explore my academic foundation</strong></summary>
 
-🎓 SR Gudlavalleru Engineering College (2020–2024)
-   BTech in AI & Data Science | GPA: 3.65/4.0
-   • ML, DL, Data Science, NLP, CV, Big Data, Statistics
-```
+### 📘 Rochester Institute of Technology (2024–2026)
+**MS in Artificial Intelligence** — GPA: 3.83/4.0  
+_Key Areas_: Visual Analytics, Ethics of AI, Mathematical Methods, LLMs & GenAI
+
+### 📗 SR Gudlavalleru Engineering College (2020–2024)
+**BTech in AI & Data Science** — GPA: 3.65/4.0  
+_Key Areas_: Machine Learning, Deep Learning, NLP, Data Science, Computer Vision
+
+</details>
 
 ---
 
-## 🛠️ Skills
+## 🧠 Skills
 
-| Category              | Tools & Technologies                                                                 |
-|-----------------------|---------------------------------------------------------------------------------------|
-| **Languages**         | Python, R, SQL, Java, C                                                              |
-| **Analytics**         | Power BI, Tableau, DAX, M, Excel (PivotTables), SQL, Looker                         |
-| **ML & GenAI**        | Transformers, LLMs, MLOps, RAG, HuggingFace, CV, VLMs, PyTorch, TensorFlow          |
-| **Modeling**          | XGBoost, Logistic Regression, Clustering, Time-Series, Statistical Testing          |
-| **Data Engineering**  | ETL, Warehousing (Snowflake, Star/Snowflake), BigQuery, Azure, AWS, MongoDB         |
-| **Visualization**     | Seaborn, Matplotlib, Scikit-learn, Power BI, Tableau, Jupyter                        |
+<p>
+  <kbd>Python</kbd>
+  <kbd>R</kbd>
+  <kbd>SQL</kbd>
+  <kbd>Power BI</kbd>
+  <kbd>Tableau</kbd>
+  <kbd>DAX</kbd>
+  <kbd>ETL</kbd>
+  <kbd>Feature Engineering</kbd>
+  <kbd>Transformers</kbd>
+  <kbd>LLMs</kbd>
+  <kbd>HuggingFace</kbd>
+  <kbd>Time Series</kbd>
+  <kbd>Cloud (Azure, AWS)</kbd>
+  <kbd>MySQL</kbd>
+  <kbd>Snowflake</kbd>
+  <kbd>Pandas</kbd>
+  <kbd>Seaborn</kbd>
+  <kbd>Matplotlib</kbd>
+  <kbd>PyTorch</kbd>
+  <kbd>TensorFlow</kbd>
+</p>
 
 ---
 
@@ -97,31 +114,32 @@ I’m a data and AI enthusiast passionate about combining **business intelligenc
 
 ## 📜 Publications
 
-- 📘 *Bias Detection in Pre-Trained LMs using GANs*  
-- 📘 *Scientific Hypothesis Generation using Deep Learning*  
-- 📘 *AI-Powered Legal Chatbot for Case Summarization*  
-- 📘 *Efficient Search Engine for Structured & Unstructured Data*  
-- 📘 *Voice-Controlled Obstacle Avoiding Robot using AI*  
-- 📘 *Fuel Assistance Recommender using ANN*
+- *Bias Detection in Pre-Trained LMs using GANs*  
+- *Scientific Hypothesis Generation using Deep Learning*  
+- *AI-Powered Legal Chatbot for Case Summarization*  
+- *Efficient Search Engine for Structured & Unstructured Data*  
+- *Voice-Controlled Obstacle Avoiding Robot using AI*  
+- *Fuel Assistance Recommender using ANN*
 
 ---
 
-## 📑 Certifications
+## 🏅 Certifications
 
-- ✅ [AI For Everyone – Coursera](https://www.coursera.org/learn/ai-for-everyone)  
+- ✅ AI For Everyone – Coursera  
 - ✅ Microsoft Certified: Azure Fundamentals  
 - ✅ PCAP – Programming Essentials in Python  
 - ✅ Wipro TalentNext – Java Full Stack
 
 ---
 
-## 💬 Let's Connect
+## 💬 Let's Connect and Build Something Amazing
 
-> I’m seeking internships and research opportunities in **AI**, **Business Intelligence**, and **Data Science**, where I can build scalable, interpretable, and impactful solutions.
+> I believe in the power of **collaboration**, **experimentation**, and building things that matter.  
+Whether it's a next-gen dashboard, a GenAI prototype, or a product idea—I'm always open to explore.
 
-📬 Reach out at [sp7289@rit.edu](mailto:sp7289@rit.edu) or connect on [LinkedIn](https://www.linkedin.com/in/sindhu-pasupuleti/).  
-Feel free to explore my repositories, dashboards, and collaborative projects right here on GitHub!
+📬 [Drop me a line](mailto:sp7289@rit.edu) or reach out on [LinkedIn](https://www.linkedin.com/in/sindhu-pasupuleti/)—  
+Let's connect, collaborate, and **build something great together**!
 
 ---
 
-⭐ _Thanks for stopping by! Don’t forget to check out my pinned projects below._
+⭐ _Thanks for visiting! Explore my pinned projects below._
