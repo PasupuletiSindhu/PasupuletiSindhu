@@ -1,6 +1,6 @@
 <h1 align="center">Sindhu Pasupuleti</h1>
 <p align="center">
-MS in Artificial Intelligence @ RIT | Business Intelligence + Generative AI | Machine Learning & Data Science Enthusiast
+MS in Artificial Intelligence @ RIT | Machine Learning + Generative AI | Business Intelligence & Data Science Enthusiast
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@ MS in Artificial Intelligence @ RIT | Business Intelligence + Generative AI | Ma
 
 ## About Me
 
-I am passionate about leveraging the full spectrum of Business Intelligence (BI) and Artificial Intelligence (AI) to solve real-world problems through data-driven decisions and intelligent automation. My experience spans advanced analytics, visualization, machine learning, and generative AI research.
+I'm Sindhu Pasupuleti, a Master's student in Artificial Intelligence with a strong, interdisciplinary focus on Generative AI, Natural Language Processing, Computer Vision, and Business Analytics. I’m driven by a passion for building intelligent systems that not only advance AI capabilities but also generate meaningful, data-backed insights for real-world decision-making. By combining deep learning with statistical and business analytics, I aim to develop solutions that are technically robust, interpretable, and strategically impactful.
 
 ---
 
@@ -25,7 +25,7 @@ I am passionate about leveraging the full spectrum of Business Intelligence (BI)
 
 **Rochester Institute of Technology** (2024–2026)  
 MS in Artificial Intelligence — GPA: 3.83/4.0  
-Coursework: Visual Analytics, Ethics of AI, Mathematical Methods, Generative AI
+Coursework: Fundamentals of AI, Ethics of AI, Mathematical Methods, Generative AI, Visual Analytics
 
 **SR Gudlavalleru Engineering College** (2020–2024)  
 BTech in AI and Data Science — GPA: 3.65/4.0  
@@ -184,7 +184,6 @@ Welcome to a curated portfolio of high-impact work across **Business Intelligenc
 
 ## Publications
 
-- Bias Detection in Language Models using GANs  
 - Scientific Hypothesis Generation via Deep Learning  
 - AI Legal Assistant Chatbot for Case Summarization  
 - Search Engine Optimization for Hybrid Data Sources  
@@ -195,6 +194,7 @@ Welcome to a curated portfolio of high-impact work across **Business Intelligenc
 
 ## Certifications
 
+- Career Essentials in Generative AI: Microsoft and LinkedIn
 - AI For Everyone – Coursera  
 - Microsoft Certified: Azure Fundamentals  
 - PCAP – Programming Essentials in Python  
