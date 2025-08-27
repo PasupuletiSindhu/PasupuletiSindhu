@@ -96,44 +96,7 @@ Coursework: Machine Learning, Deep Learning, NLP, Data Science, Computer Vision
 
 ## Explore My Projects
 
-Welcome to a curated portfolio of high-impact work across **Business Intelligence (BI)** and **Artificial Intelligence (AI)**. Each project blends technical depth with real-world applicability, showcasing solutions for forecasting, modeling, optimization, and interpretability. Click through the sections to dive deeper.
-
----
-
-<details>
-<summary><strong>Business Intelligence & Analytics Projects</strong></summary>
-
-### Retail Sales Performance Dashboard  
-**Tools:** Power BI, SQL, DAX  
-- Built a dynamic sales tracking dashboard across products, regions, and customer segments  
-- Uncovered a 15% margin loss in the Central region due to discount patterns  
-- Suggested strategic pricing changes for a projected 12% margin recovery  
-
----
-
-### Customer Churn Prediction & Retention Strategy  
-**Tools:** Python, SQL, Tableau  
-- Developed a churn model using Logistic Regression and XGBoost with 82% accuracy  
-- Built an executive Tableau dashboard to visualize churn risk and retention strategies  
-- Reduced projected losses by $125K quarterly through targeted interventions  
-
----
-
-### HR Attrition Dashboard  
-**Tools:** Power BI, Excel, Python  
-- Visualized attrition trends, satisfaction metrics, and tenure analytics  
-- Identified a 32% higher attrition rate in R&D and Sales roles  
-- Enabled HR teams to diagnose key drivers of turnover  
-
----
-
-### E-Commerce Campaign ROI Tracker  
-**Tools:** Power BI, SQL  
-- Analyzed marketing channels with metrics like CAC, ROAS, LTV  
-- Revealed Social Media had 1.4x higher ROAS than Paid Ads  
-- Recommended budget reallocation with a projected 22% ROI uplift  
-
-</details>
+Welcome to a curated portfolio of high-impact work across and **Artificial Intelligence (AI)** and **Data Science**. Each project blends technical depth with real-world applicability, showcasing solutions for forecasting, modeling, optimization, and interpretability. Click through the sections to dive deeper.
 
 ---
 
@@ -177,6 +140,43 @@ Welcome to a curated portfolio of high-impact work across **Business Intelligenc
 - Modeled fuel consumption patterns using historical + geospatial data  
 - Increased accuracy by 30% and improved efficiency through targeted suggestions  
 - Applied dimensionality reduction to accelerate training by 40%  
+
+</details>
+
+---
+
+<details>
+<summary><strong>Business Intelligence & Analytics Projects</strong></summary>
+
+### Retail Sales Performance Dashboard  
+**Tools:** Power BI, SQL, DAX  
+- Built a dynamic sales tracking dashboard across products, regions, and customer segments  
+- Uncovered a 15% margin loss in the Central region due to discount patterns  
+- Suggested strategic pricing changes for a projected 12% margin recovery  
+
+---
+
+### Customer Churn Prediction & Retention Strategy  
+**Tools:** Python, SQL, Tableau  
+- Developed a churn model using Logistic Regression and XGBoost with 82% accuracy  
+- Built an executive Tableau dashboard to visualize churn risk and retention strategies  
+- Reduced projected losses by $125K quarterly through targeted interventions  
+
+---
+
+### HR Attrition Dashboard  
+**Tools:** Power BI, Excel, Python  
+- Visualized attrition trends, satisfaction metrics, and tenure analytics  
+- Identified a 32% higher attrition rate in R&D and Sales roles  
+- Enabled HR teams to diagnose key drivers of turnover  
+
+---
+
+### E-Commerce Campaign ROI Tracker  
+**Tools:** Power BI, SQL  
+- Analyzed marketing channels with metrics like CAC, ROAS, LTV  
+- Revealed Social Media had 1.4x higher ROAS than Paid Ads  
+- Recommended budget reallocation with a projected 22% ROI uplift  
 
 </details>
 
