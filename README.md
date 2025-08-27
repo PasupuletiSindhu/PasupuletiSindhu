@@ -1,6 +1,6 @@
 <h1 align="center">Sindhu Pasupuleti</h1>
 <p align="center">
-MS in Artificial Intelligence @ RIT | Machine Learning + Generative AI | Business Intelligence & Data Science Enthusiast
+MS in Artificial Intelligence @ RIT | Machine Learning + Generative AI | Deep Learning & Data Science Enthusiast
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@ MS in Artificial Intelligence @ RIT | Machine Learning + Generative AI | Busines
 
 ## About Me
 
-I'm Sindhu Pasupuleti, a Master's student in Artificial Intelligence with a strong, interdisciplinary focus on Generative AI, Natural Language Processing, Computer Vision, and Business Analytics. I’m driven by a passion for building intelligent systems that not only advance AI capabilities but also generate meaningful, data-backed insights for real-world decision-making. By combining deep learning with statistical and business analytics, I aim to develop solutions that are technically robust, interpretable, and strategically impactful.
+I'm Sindhu Pasupuleti, a Master's student in Artificial Intelligence with a strong, interdisciplinary focus on Generative AI, Natural Language Processing, Computer Vision, Data Science and Analytics. I’m driven by a passion for building intelligent systems that not only advance AI capabilities but also generate meaningful, data-backed insights for real-world decision-making. By combining deep learning with statistical and data analytics, I aim to develop solutions that are technically robust, interpretable, and strategically impactful.
 
 ---
 
